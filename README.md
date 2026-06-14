@@ -1,0 +1,2 @@
+# Integrating-Advanced-Technology-in-Aerospace-Traffic-Management-System
+This project develops an intelligent Aerospace Traffic Management (ATM) system using AI, UAVs, real-time analytics, and advanced communication technologies. The system monitors traffic, detects congestion and anomalies, and supports data-driven decision-making to improve safety, efficiency, and sustainability in modern airspace management.
